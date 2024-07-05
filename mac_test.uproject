@@ -12,6 +12,10 @@
 			]
 		},
 		{
+			"Name": "PostProcessMaterialChainGraph",
+			"Enabled": true
+		},
+		{
 			"Name": "TextureGraph",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
